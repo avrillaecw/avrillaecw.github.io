@@ -5,15 +5,15 @@ theme = 'PaperMod'
 
 [params]
     name = "Avrilla"
-    description = "S2 Teknologi Informasi UGM | Pranata Komputer"
+    description = "S2 Teknologi Informasi UGM | Computer Specialist"
     author = "Avrilla"
     analytics = { google = { fingerprint = "" } }
 
 [params.profileMode]
     enabled = true
     title = "Hi there, I'm Avrilla 👋"
-    subtitle = "S2 IT UGM Student | Computer Specialist (Pranata Komputer)"
-    imageUrl = "link_foto_kamu.jpg" # Opsional
+    subtitle = "S2 IT UGM Student | Computer Specialist"
+    imageUrl = "/images/profile_avrilla.jpg" # Opsional
     [[params.socialIcons]]
         name = "linkedin"
         url = "https://linkedin.com/in/username-mu"
