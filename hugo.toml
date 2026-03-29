@@ -1,0 +1,16 @@
+baseURL = 'https://avrilla.github.io/'
+languageCode = 'id-id'
+title = 'Avrilla | IT Specialist & Master Student'
+theme = 'PaperMod'
+
+[params]
+    name = "Avrilla"
+    description = "S2 Teknologi Informasi UGM | Pranata Komputer"
+    author = "Avrilla"
+
+[menu]
+    [[menu.main]]
+        identifier = "posts"
+        name = "Portofolio"
+        url = "/posts/"
+        weight = 10
