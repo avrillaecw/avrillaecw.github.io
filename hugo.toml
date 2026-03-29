@@ -9,6 +9,18 @@ theme = 'PaperMod'
     author = "Avrilla"
     analytics = { google = { fingerprint = "" } }
 
+[params.profileMode]
+    enabled = true
+    title = "Hi there, I'm Avrilla 👋"
+    subtitle = "S2 IT UGM Student | Computer Specialist (Pranata Komputer)"
+    imageUrl = "link_foto_kamu.jpg" # Opsional
+    [[params.socialIcons]]
+        name = "linkedin"
+        url = "https://linkedin.com/in/username-mu"
+    [[params.socialIcons]]
+        name = "github"
+        url = "https://github.com/avrillaecw"
+
 [menu]
     [[menu.main]]
         identifier = "posts"
